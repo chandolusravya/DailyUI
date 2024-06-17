@@ -1,2 +1,2 @@
 # DailyUI
-React Native Snippets
+Next.js Snippets
